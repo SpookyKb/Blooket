@@ -1,0 +1,7 @@
+if you want a easy hack menu
+step 1 copy this: 
+javascript:fetch('https://thatfrueddued.github.io/blooket-utility/index.js').then(r=>r.text()).then(t=>(new Function(t))())
+step 3 save as a bookmark
+step 4 put what you copied as the link
+step 5 go to blooket and click the bookmark
+step 6 have fun!
